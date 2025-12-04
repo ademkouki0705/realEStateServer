@@ -1,7 +1,3 @@
 node_modules/
 .expo/
-.env
-dist/
-build/
-.vscode/
-.DS_Store
+
